@@ -99,7 +99,15 @@ project-root/
 
 ---
 
+
 ## 🧠 Author Notes
 
 This project was developed for machine learning experimentation using AutoGluon in a constrained Python 3.7 environment. It emphasizes compatibility, clarity, and fast deployment in notebook-based workflows like SageMaker or Jupyter.
 
+
+## 📚 References
+
+- [Kaggle Competition: Bike Sharing Demand](https://www.kaggle.com/c/bike-sharing-demand/overview)
+- [Udacity Project Template (GitHub)](https://github.com/udacity/cd0385-project-starter/blob/main/project/project-template.ipynb)
+
+---
